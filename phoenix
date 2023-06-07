@@ -30,4 +30,4 @@ NEED_DTBO=false
 
 # Build boot images
 MAKE_BOOT_IMAGE=true
-SOURCE_BOOT_IMAGE=https://raw.githubusercontent.com/xiaoleGun/KernelSU_action/main/boot/boot.img
+SOURCE_BOOT_IMAGE=https://github.com/ztc1997/android_kernel_xiaomi_sm6150/releases/download/v1.20.3/kernel-phoenix-r-ztc1997-v1.20.3-7630055.zip
