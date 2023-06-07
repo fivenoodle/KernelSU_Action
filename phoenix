@@ -1,7 +1,7 @@
-KERNEL_SOURCE=https://github.com/Diva-Room/Miku_kernel_xiaomi_wayne
-KERNEL_SOURCE_BRANCH=TDA
-KERNEL_DEFCONFIG=vendor/wayne_defconfig
-KERNEL_FILE=Image.gz-dtb
+KERNEL_SOURCE=https://github.com/ztc1997/android_kernel_xiaomi_sm6150
+KERNEL_SOURCE_BRANCH=phoenix-r-oss
+KERNEL_DEFCONFIG=vendor/sm8150_defconfig
+KERNEL_FILE=Image
 TARGET_ARCH=arm64
 
 # Clang
